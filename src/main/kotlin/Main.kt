@@ -1,4 +1,4 @@
 fun main(args: Array<String>) {
-    println("Hello World3!")
+    println("Hello everyone!")
     println("Program arguments: ${args.joinToString()}")
 }
